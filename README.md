@@ -2,13 +2,17 @@
 
 **Execution · Distributed Systems · Market Infrastructure**
 
-Two decades building and operating proprietary trading systems under latency, risk, and failure constraints.
+Building and operating proprietary trading systems.
 
-## Selected work
+## Selected public work
 
 ### [Options Execution Infrastructure](https://github.com/jaws777/options-ats-core)
 
 C++20 infrastructure for fixed-point pricing, market data, order lifecycle, FIX, pre-trade risk, and deterministic replay.
+
+### [Position Sizing & Risk Policy](https://github.com/jaws777/inventory-headroom)
+
+Deterministic add, reduce, flip, notional, and reduce-only logic validated across 576 tests.
 
 ### [Deterministic Market Microstructure Simulation](https://github.com/aleatoric-systems/aleatoric-engine-mcp)
 
